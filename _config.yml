@@ -51,7 +51,7 @@ highlighter: rouge
 # library used for syntax highlighting
 
 markdown: kramdown
-remote_theme: SLATE
+theme: jekyll-theme-minimal
 kramdown:
  input: GFM
  auto_ids: true
