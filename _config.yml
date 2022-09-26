@@ -5,13 +5,13 @@ baseurl: /articles
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: "Edwin Ames Article Downloads"
+topnav_title: "Article Downloads"
 # this appears on the top navigation bar next to the home button
 
 site_title: "Edwin Ames Article Downloads"
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Edwin Ames Article Downloads
+company_name: Edwin Ames
 # this appears in the footer
 
 copyright_year: 2022
@@ -83,7 +83,7 @@ sidebars:
 - mentor_sidebar
 - student_sidebar
 
-description: "Edwin Ames Article Downloads Provides Source Code and Other Information About His Articles."
+description: "Provides Source Code and Other Information"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
