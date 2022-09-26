@@ -51,6 +51,7 @@ highlighter: rouge
 # library used for syntax highlighting
 
 markdown: kramdown
+remote_theme: SLATE
 kramdown:
  input: GFM
  auto_ids: true
